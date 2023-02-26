@@ -14,7 +14,7 @@ yarn docker-compose
 
 ## create an .env file based on the template.env and put the database URL for your prisma client
 
-## To populate the database, run
+## to populate the database, run
 
 ```sh
 npx prisma migrate dev
